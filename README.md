@@ -21,7 +21,7 @@ Here are several examples:
 
 1. Every time the program is ran ,a new folder is created in the format shown below and each folder will have corresponding unseen resumes and the excel sheet with the candidate data and decisions.
 
-![Alt text](https://github.com/Ojooh/Resume-Filter/blob/main/python%20auto%20recruitment%20pics/1.png'1')
+![Alt text](https://github.com/Ojooh/Resume-Filter/blob/main/python%20auto%20recruitment%20pics/1.png '1')
 
 2. When the program is run it initially asks for the input and then this kind of display is shown.The location of the the corresponding folder is shown, The resumes, number of words in resumes(just for debugging), and the enails to which replies are sent.
 
